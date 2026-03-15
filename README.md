@@ -1,4 +1,5 @@
 # E-Commerce Product Conversion & Revenue Analysis (Power BI)
+[Click To View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmI0NzY1MDAtN2NhZC00YWE3LTgyNDQtNzgzZmJkZDgyY2E0IiwidCI6ImIyMTFiMjkwLWFkNzUtNGJlNC1iZDk3LWI5Y2MxZDlmMzdlZCJ9)
 
 ## Project Overview
 
@@ -233,8 +234,9 @@ DIVIDE([Revenue],[Orders],0)
 ---
 
 # Dashboard Design
-
 The dashboard was designed to highlight key performance indicators across **conversion, engagement, and revenue**.
+
+[Click To View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmI0NzY1MDAtN2NhZC00YWE3LTgyNDQtNzgzZmJkZDgyY2E0IiwidCI6ImIyMTFiMjkwLWFkNzUtNGJlNC1iZDk3LWI5Y2MxZDlmMzdlZCJ9)
 
 ---
 
