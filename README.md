@@ -82,10 +82,6 @@ Issues identified:
 * Null pricing values
 * Event data stored across multiple tables
 
-Example of the raw dataset inspection:
-
-![Dirty Data](dirty 1.png)
-
 ---
 
 ## Data Transformation Steps
@@ -121,15 +117,11 @@ Product attributes such as pricing and category were cleaned and standardized.
 
 Example cleaned product data:
 
-![Clean Product Data](clean.png)
-
 ---
 
 ### 4. Session Integrity Check
 
 Session IDs were validated to ensure no missing or duplicate session identifiers.
-
-![Session Validation](dirty 1B.png)
 
 ---
 
@@ -167,8 +159,6 @@ Key fields:
 * date_table
 
 This structure enables efficient filtering across multiple dimensions.
-
-![Data Model](data model .png)
 
 ---
 
@@ -245,8 +235,6 @@ DIVIDE([Revenue],[Orders],0)
 # Dashboard Design
 
 The dashboard was designed to highlight key performance indicators across **conversion, engagement, and revenue**.
-
-![Dashboard](dashboard.png)
 
 ---
 
@@ -428,12 +416,6 @@ Data Analyst | Business Intelligence | Power BI
 
 ---
 
-Great — adding **“Analytical Questions Answered”** is one of the best ways to make a **GitHub portfolio project look like real analyst work** rather than just a dashboard. It shows **structured thinking, business awareness, and analytical reasoning**.
-
-You should place this section **right after the Business Problem section in your README**.
-
----
-
 # Analytical Questions Answered
 
 This analysis was designed to answer several key business questions related to **customer behavior, conversion performance, and revenue generation**.
@@ -574,5 +556,3 @@ Businesses can:
 * prioritize high-performing products
 * allocate inventory more efficiently
 * target promotions more strategically
-
----
